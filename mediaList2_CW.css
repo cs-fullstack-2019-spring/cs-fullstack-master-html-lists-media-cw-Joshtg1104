@@ -1,0 +1,59 @@
+ul,img, iframe, header{
+    /*margin: 0 1.5% 24px 640px;*/
+    display: block;
+    padding: 15px;
+}
+
+header{
+    margin-left: 500px;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+
+
+}
+
+img{
+    float: right;
+    width: 500px;
+    height: 300px;
+    margin-right: 140px;
+}
+
+ul{
+    float: left;
+    margin-left: 400px;
+    font-size: larger;
+
+
+}
+
+iframe{
+    clear: both;
+    margin-left: 200px;
+    height: 1400px;
+    width: 1200px;
+
+}
+
+.backgroundColor1 {
+    background: grey;
+    width: 40%;
+    height: 100px;
+}
+.backgroundColor2{
+    background: yellow;
+    width: 40%;
+    height: 100px;
+}
+
+.cakeSlices{
+    background: url("img/cake.PNG") 0 50% no-repeat;
+    list-style-type: none;
+    padding-left: 60px;
+    padding-bottom: 60px;
+}
+
+.textPad{
+    padding-top: 60px;
+}

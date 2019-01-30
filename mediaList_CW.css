@@ -1,0 +1,10 @@
+.noBullets{
+    list-style-type: none;
+}
+.titlecard{
+    border: blue solid 6px;
+    text-align: center;
+    width: 250px;
+    display: block;
+    margin: 0 1.5% 24px 640px;
+}
